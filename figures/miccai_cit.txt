@@ -1,0 +1,8 @@
+@inproceedings{byra2023implicit,
+  title={Implicit neural representations for joint decomposition and registration of gene expression images in the marmoset brain},
+  author={Byra, Michal and Poon, Charissa and Shimogori, Tomomi and Skibbe, Henrik},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={645--654},
+  year={2023},
+  organization={Springer}
+}
