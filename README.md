@@ -6,7 +6,7 @@ We propose a novel image registration method based on implicit neural representa
 
 ![Illustration](figures/scheme.png)
 
-We use implicit networks $S$ and $R$ to decompose the moving image into the support and residual images. The moving and support images are jointly registered to the fixed template image, which guides the image decomposition procedure to generate a support image that is well-aligned to the fixed image with respect to the texture. The residual image includes the remaining moving image contents that do not contribute to the registration, such as local gene expression patterns or image artifacts.
+Figure: We use implicit networks $S$ and $R$ to decompose the moving image into the support and residual images. The moving and support images are jointly registered to the fixed template image, which guides the image decomposition procedure to generate a support image that is well-aligned to the fixed image with respect to the texture. The residual image includes the remaining moving image contents that do not contribute to the registration, such as local gene expression patterns or image artifacts.
 
 # About
 
