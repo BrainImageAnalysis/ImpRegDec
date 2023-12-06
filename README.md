@@ -10,7 +10,7 @@ We propose a novel image registration method based on implicit neural representa
 
 This repository presents some examples assosiated with our study about the implicit networks based joint image registration and decomposition. If you find this site useful for your work, consider citing our paper ([bibtex](figures/miccai_cit.txt)): 
 
-[Byra, M., Poon, C., Shimogori T., Skibbe H. Implicit neural representations for joint decomposition and registration of gene expression images in the marmoset brain. MICCAI 2023)](https://doi.org/10.1007/978-3-031-43999-5_61)
+[Byra, M., Poon, C., Shimogori T., Skibbe H., Implicit neural representations for joint decomposition and registration of gene expression images in the marmoset brain, MICCAI 2023.](https://doi.org/10.1007/978-3-031-43999-5_61)
 
 # Contents
 
